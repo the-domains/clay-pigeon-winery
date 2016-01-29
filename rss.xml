@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Clay Pigeon Winery]]></title>
         <description><![CDATA[Clay Pigeon Winery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/clay-pigeon-winery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 15:40:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 15:46:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clay-pigeon-winery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59bf6a83-f342-42ce-b213-57f7a3b7819e.jpg">]]></description>
+            <link>https://thegrid.ai/clay-pigeon-winery/2e14cd83-b907-4196-871a-93500986f7e9/index.html</link>
+            <guid isPermaLink="false">2e14cd83-b907-4196-871a-93500986f7e9</guid>
+            <pubDate>Fri, 29 Jan 2016 15:44:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ffe27c1-b28e-4d98-9959-b60b7c475886.jpg">]]></description>
-            <link>undefinede9c67085-5a9d-4181-bcb9-4a347f84e95e/index.html</link>
+            <link>https://thegrid.ai/clay-pigeon-winery/e9c67085-5a9d-4181-bcb9-4a347f84e95e/index.html</link>
             <guid isPermaLink="false">e9c67085-5a9d-4181-bcb9-4a347f84e95e</guid>
             <pubDate>Fri, 29 Jan 2016 15:39:13 GMT</pubDate>
         </item>
